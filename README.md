@@ -5,5 +5,3 @@ Take idea from this site >> https://www.rapidtables.com/convert/number/binary-to
 
 Binary - Decimal - Octal - Hexadecimal
 
-it will be hosted through Netlify.app
-and it will be functional
